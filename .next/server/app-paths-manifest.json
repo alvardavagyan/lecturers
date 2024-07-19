@@ -1,0 +1,5 @@
+{
+  "/lecturers/page": "app/lecturers/page.js",
+  "/lecturers/add/page": "app/lecturers/add/page.js",
+  "/lecturers/edit/[id]/page": "app/lecturers/edit/[id]/page.js"
+}
